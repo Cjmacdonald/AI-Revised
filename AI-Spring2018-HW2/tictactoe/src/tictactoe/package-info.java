@@ -2,7 +2,7 @@
  * 
  */
 /**
- * @author nsharvey
+ * @author camma
  *
  */
 package tictactoe;
